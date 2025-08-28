@@ -1,51 +1,27 @@
-Personal Portfolio Website
-A clean and modern personal portfolio website built with ASP.NET Core MVC. It serves as a central hub to showcase your professional information, projects, and articles.
+# Personal Portfolio Website | ASP.NET Core
 
-✨ Features
-Personal Profile: Display your bio, contact information, skills, and professional experience.
+A clean, modern, and fully responsive portfolio website built with **ASP.NET Core MVC**. Designed for developers, designers, and creatives to showcase their personal information, projects, and articles in a professional manner.
 
-Project Portfolio: Showcase your work with details like project descriptions, technologies used, and live/github links.
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-8.0-%235C2D91?style=for-the-badge&logo=.net)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.0-%23563D7C?style=for-the-badge&logo=bootstrap)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-Articles/Blog: Write and share articles or blog posts to demonstrate your expertise.
 
-Responsive Design: Built with Bootstrap to ensure a seamless experience on desktop and mobile devices.
 
-Clean Architecture: Organized using the MVC pattern for separation of concerns and maintainability.
+---
 
-🛠️ Built With
-Backend Framework: ASP.NET Core
+## ✨ Features
 
-ORM: Entity Framework Core for data access
+-   **🏠 Home Page:** A landing page with a brief introduction and highlights of featured projects/articles.
+-   **👤 About Section:** A dedicated page to display detailed personal information, skills, experience, and a biography.
+-   **💼 Projects Portfolio:** A dynamic section to showcase your work. Each project includes a title, description, image, technologies used, and links.
+-   **📝 Articles/Blog:** A simple blog engine to publish and manage your articles. Supports markdown or rich text content.
+-   **🔧 Admin Panel (Optional):** An easy-to-use interface to add, edit, or delete projects and articles without touching code.
 
-Database: SQL Server (or SQLite for development)
+## 🛠️ Tech Stack
 
-Frontend: Bootstrap, HTML5, CSS3
-
-IDE: Visual Studio / VS Code
-
-📁 Project Structure
-text
-Copy
-Download
-PersonalPortfolio/
-├── Controllers/
-│   ├── HomeController.cs
-│   ├── ProjectsController.cs
-│   └── ArticlesController.cs
-├── Models/
-│   ├── Person.cs
-│   ├── Project.cs
-│   └── Article.cs
-├── Views/
-│   ├── Home/
-│   ├── Projects/
-│   └── Articles/
-├── wwwroot/         (CSS, JS, Image files)
-└── appsettings.json
-🚀 Getting Started
-Prerequisites
-.NET 8.0 SDK
-
-An IDE (Visual Studio 2022+, VS Code, or Rider)
-
-SQL Server (or use the built-in SQLite for simplicity)
+-   **Backend Framework:** ASP.NET Core 8.0 (MVC)
+-   **Database:** Entity Framework Core (Code-First) with SQL Server / SQLite
+-   **Frontend:** Bootstrap 5, HTML5, CSS3, JavaScript
+-   **Authentication:** ASP.NET Core Identity (Optional for Admin panel)
+-   **Deployment:** Ready for deployment to Azure, AWS, or any hosting provider supporting .NET Core.
