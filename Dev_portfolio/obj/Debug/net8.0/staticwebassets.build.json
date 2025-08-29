@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pg/Z7bzkOxIdGYRJ6hYeNi68kzSbXiKYHdHuNKzYmB8=",
+  "Hash": "AG93rl8IcK5uGem0G3NmtKQJLu77DM5k8+XB+7CUrTs=",
   "Source": "Dev_portfolio",
   "BasePath": "_content/Dev_portfolio",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "3pp6lzeyxm",
-      "Integrity": "aTdsp1ONtlqlZgMYQ49ixy8r2Wq0K/GGKryD7D8wwi0=",
+      "Fingerprint": "oyj03yo65f",
+      "Integrity": "EBAXqzN25hQJI0npRXQ/k66NtZNZyxVzSYQzIIpwKgA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Dev_portfolio.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "3pp6lzeyxm",
-      "Integrity": "aTdsp1ONtlqlZgMYQ49ixy8r2Wq0K/GGKryD7D8wwi0=",
+      "Fingerprint": "oyj03yo65f",
+      "Integrity": "EBAXqzN25hQJI0npRXQ/k66NtZNZyxVzSYQzIIpwKgA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Dev_portfolio.bundle.scp.css"
@@ -225,6 +225,153 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\IranianSans.woff2"
+    },
+    {
+      "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\01.png",
+      "SourceId": "Dev_portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\",
+      "BasePath": "_content/Dev_portfolio",
+      "RelativePath": "assets/images/blog/01#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "non27hrbw4",
+      "Integrity": "Z5+9vRNB61pvgdj3FMFY7GD99eiL5hMVwR4EBhsQNmk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\01.png"
+    },
+    {
+      "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\02.jpg",
+      "SourceId": "Dev_portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\",
+      "BasePath": "_content/Dev_portfolio",
+      "RelativePath": "assets/images/blog/02#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vtcub3yfie",
+      "Integrity": "jazwHjblXHXyn6YT9fXyzg38zfp9i3SqoKWK34re3aU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\02.jpg"
+    },
+    {
+      "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\03.jpg",
+      "SourceId": "Dev_portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\",
+      "BasePath": "_content/Dev_portfolio",
+      "RelativePath": "assets/images/blog/03#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wlh2aw8es9",
+      "Integrity": "pI8G9dlJDvkZirLYyHHF+wFDFnImbiAu1sXmfTWGl0A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\03.jpg"
+    },
+    {
+      "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\04.png",
+      "SourceId": "Dev_portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\",
+      "BasePath": "_content/Dev_portfolio",
+      "RelativePath": "assets/images/blog/04#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n4jz4q1s2v",
+      "Integrity": "l4fgUwnWMs1rSZntSh/nqecP2G74N4+Rs3fmNHSeFSU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\04.png"
+    },
+    {
+      "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\05.jpg",
+      "SourceId": "Dev_portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\",
+      "BasePath": "_content/Dev_portfolio",
+      "RelativePath": "assets/images/blog/05#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2ksazag7qf",
+      "Integrity": "Etrt+gDphSUcg4hePM8rjUerLTZE46Dw2EBcxu4dg7w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\05.jpg"
+    },
+    {
+      "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\06.jpg",
+      "SourceId": "Dev_portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\",
+      "BasePath": "_content/Dev_portfolio",
+      "RelativePath": "assets/images/blog/06#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lkf9o53x2c",
+      "Integrity": "FXOIfy62jvEoVMoqMgaEoNpzBGjCdsj3KoE4kNSbs4c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\06.jpg"
+    },
+    {
+      "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\07.png",
+      "SourceId": "Dev_portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\",
+      "BasePath": "_content/Dev_portfolio",
+      "RelativePath": "assets/images/blog/07#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "anmntlkhps",
+      "Integrity": "ZgNwhPQjBmdTOab63gAktXKRI7A7tDUsV5VeGwZA4RE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\blog\\07.png"
     },
     {
       "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\blog-post-banner.jpg",
@@ -689,6 +836,69 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\profile-lg.jpg"
     },
     {
+      "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\food.jpg",
+      "SourceId": "Dev_portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\",
+      "BasePath": "_content/Dev_portfolio",
+      "RelativePath": "assets/images/project/food#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qh31x99zra",
+      "Integrity": "EmNkEyEZjPPMdzPXmij/1mSWNNbrraj5edq8rnczBpI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\project\\food.jpg"
+    },
+    {
+      "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\goldiran.jpg",
+      "SourceId": "Dev_portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\",
+      "BasePath": "_content/Dev_portfolio",
+      "RelativePath": "assets/images/project/goldiran#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jgb353qvpy",
+      "Integrity": "w80Eih/X/pU9seA6vB5kOfs6n6/bsFTHMsPaZVlgtHk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\project\\goldiran.jpg"
+    },
+    {
+      "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\lms.jpeg",
+      "SourceId": "Dev_portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\",
+      "BasePath": "_content/Dev_portfolio",
+      "RelativePath": "assets/images/project/lms#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a6ddyst5hk",
+      "Integrity": "8uW3zoUfSgdXXr5TooYR6dKX/h+IYYGxyqIj2qM4Clg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\project\\lms.jpeg"
+    },
+    {
       "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\project-1.jpg",
       "SourceId": "Dev_portfolio",
       "SourceType": "Discovered",
@@ -897,6 +1107,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\project\\project-figure-2.jpg"
+    },
+    {
+      "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\taxiOnline.jpg",
+      "SourceId": "Dev_portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\",
+      "BasePath": "_content/Dev_portfolio",
+      "RelativePath": "assets/images/project/taxiOnline#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cgjdc8hpzk",
+      "Integrity": "RGCmCgSqWuKVkeoBGgfkud3Bf83CP5guOCn/eicmlUM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\project\\taxiOnline.jpg"
     },
     {
       "Identity": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\promo-banner.jpg",
@@ -2880,6 +3111,580 @@
       ]
     },
     {
+      "Route": "assets/images/blog/01.non27hrbw4.png",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z5+9vRNB61pvgdj3FMFY7GD99eiL5hMVwR4EBhsQNmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:21:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "non27hrbw4"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/blog/01.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z5+9vRNB61pvgdj3FMFY7GD99eiL5hMVwR4EBhsQNmk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/blog/01.png",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\01.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "131171"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z5+9vRNB61pvgdj3FMFY7GD99eiL5hMVwR4EBhsQNmk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:21:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z5+9vRNB61pvgdj3FMFY7GD99eiL5hMVwR4EBhsQNmk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/blog/02.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117677"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jazwHjblXHXyn6YT9fXyzg38zfp9i3SqoKWK34re3aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:27:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jazwHjblXHXyn6YT9fXyzg38zfp9i3SqoKWK34re3aU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/blog/02.vtcub3yfie.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\02.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117677"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jazwHjblXHXyn6YT9fXyzg38zfp9i3SqoKWK34re3aU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:27:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vtcub3yfie"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/blog/02.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jazwHjblXHXyn6YT9fXyzg38zfp9i3SqoKWK34re3aU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/blog/03.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "846025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pI8G9dlJDvkZirLYyHHF+wFDFnImbiAu1sXmfTWGl0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pI8G9dlJDvkZirLYyHHF+wFDFnImbiAu1sXmfTWGl0A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/blog/03.wlh2aw8es9.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\03.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "846025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pI8G9dlJDvkZirLYyHHF+wFDFnImbiAu1sXmfTWGl0A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:22:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wlh2aw8es9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/blog/03.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pI8G9dlJDvkZirLYyHHF+wFDFnImbiAu1sXmfTWGl0A="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/blog/04.n4jz4q1s2v.png",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\04.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "580576"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l4fgUwnWMs1rSZntSh/nqecP2G74N4+Rs3fmNHSeFSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:33:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n4jz4q1s2v"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/blog/04.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l4fgUwnWMs1rSZntSh/nqecP2G74N4+Rs3fmNHSeFSU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/blog/04.png",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\04.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "580576"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l4fgUwnWMs1rSZntSh/nqecP2G74N4+Rs3fmNHSeFSU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:33:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l4fgUwnWMs1rSZntSh/nqecP2G74N4+Rs3fmNHSeFSU="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/blog/05.2ksazag7qf.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\05.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Etrt+gDphSUcg4hePM8rjUerLTZE46Dw2EBcxu4dg7w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:24:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2ksazag7qf"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/blog/05.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Etrt+gDphSUcg4hePM8rjUerLTZE46Dw2EBcxu4dg7w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/blog/05.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\05.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Etrt+gDphSUcg4hePM8rjUerLTZE46Dw2EBcxu4dg7w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:24:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Etrt+gDphSUcg4hePM8rjUerLTZE46Dw2EBcxu4dg7w="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/blog/06.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\06.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXOIfy62jvEoVMoqMgaEoNpzBGjCdsj3KoE4kNSbs4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:25:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FXOIfy62jvEoVMoqMgaEoNpzBGjCdsj3KoE4kNSbs4c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/blog/06.lkf9o53x2c.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\06.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3537"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FXOIfy62jvEoVMoqMgaEoNpzBGjCdsj3KoE4kNSbs4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:25:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lkf9o53x2c"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/blog/06.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FXOIfy62jvEoVMoqMgaEoNpzBGjCdsj3KoE4kNSbs4c="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/blog/07.anmntlkhps.png",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\07.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZgNwhPQjBmdTOab63gAktXKRI7A7tDUsV5VeGwZA4RE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:25:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "anmntlkhps"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/blog/07.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZgNwhPQjBmdTOab63gAktXKRI7A7tDUsV5VeGwZA4RE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/blog/07.png",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\07.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61394"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZgNwhPQjBmdTOab63gAktXKRI7A7tDUsV5VeGwZA4RE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:25:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZgNwhPQjBmdTOab63gAktXKRI7A7tDUsV5VeGwZA4RE="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/blog/blog-post-banner.jpg",
       "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\blog-post-banner.jpg",
       "Selectors": [],
@@ -4684,6 +5489,252 @@
       ]
     },
     {
+      "Route": "assets/images/project/food.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\food.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EmNkEyEZjPPMdzPXmij/1mSWNNbrraj5edq8rnczBpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 13:51:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EmNkEyEZjPPMdzPXmij/1mSWNNbrraj5edq8rnczBpI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/project/food.qh31x99zra.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\food.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EmNkEyEZjPPMdzPXmij/1mSWNNbrraj5edq8rnczBpI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 13:51:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qh31x99zra"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/project/food.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EmNkEyEZjPPMdzPXmij/1mSWNNbrraj5edq8rnczBpI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/project/goldiran.jgb353qvpy.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\goldiran.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w80Eih/X/pU9seA6vB5kOfs6n6/bsFTHMsPaZVlgtHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 13:47:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jgb353qvpy"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/project/goldiran.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w80Eih/X/pU9seA6vB5kOfs6n6/bsFTHMsPaZVlgtHk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/project/goldiran.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\goldiran.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w80Eih/X/pU9seA6vB5kOfs6n6/bsFTHMsPaZVlgtHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 13:47:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w80Eih/X/pU9seA6vB5kOfs6n6/bsFTHMsPaZVlgtHk="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/project/lms.a6ddyst5hk.jpeg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\lms.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8uW3zoUfSgdXXr5TooYR6dKX/h+IYYGxyqIj2qM4Clg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 13:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6ddyst5hk"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/project/lms.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8uW3zoUfSgdXXr5TooYR6dKX/h+IYYGxyqIj2qM4Clg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/project/lms.jpeg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\lms.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "188062"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8uW3zoUfSgdXXr5TooYR6dKX/h+IYYGxyqIj2qM4Clg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 13:48:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8uW3zoUfSgdXXr5TooYR6dKX/h+IYYGxyqIj2qM4Clg="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/project/project-1.e0hg54p9ds.jpg",
       "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\project-1.jpg",
       "Selectors": [],
@@ -5504,6 +6555,88 @@
       ]
     },
     {
+      "Route": "assets/images/project/taxiOnline.cgjdc8hpzk.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\taxiOnline.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGCmCgSqWuKVkeoBGgfkud3Bf83CP5guOCn/eicmlUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 13:45:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cgjdc8hpzk"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/images/project/taxiOnline.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGCmCgSqWuKVkeoBGgfkud3Bf83CP5guOCn/eicmlUM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/images/project/taxiOnline.jpg",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\taxiOnline.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RGCmCgSqWuKVkeoBGgfkud3Bf83CP5guOCn/eicmlUM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 13:45:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RGCmCgSqWuKVkeoBGgfkud3Bf83CP5guOCn/eicmlUM="
+        }
+      ]
+    },
+    {
       "Route": "assets/images/promo-banner.jpg",
       "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\promo-banner.jpg",
       "Selectors": [],
@@ -5914,96 +7047,6 @@
       ]
     },
     {
-      "Route": "Dev_portfolio.3pp6lzeyxm.bundle.scp.css",
-      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Dev_portfolio.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1131"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aTdsp1ONtlqlZgMYQ49ixy8r2Wq0K/GGKryD7D8wwi0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 10:56:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3pp6lzeyxm"
-        },
-        {
-          "Name": "label",
-          "Value": "Dev_portfolio.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-aTdsp1ONtlqlZgMYQ49ixy8r2Wq0K/GGKryD7D8wwi0="
-        }
-      ]
-    },
-    {
-      "Route": "Dev_portfolio.3pp6lzeyxm.styles.css",
-      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Dev_portfolio.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1131"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aTdsp1ONtlqlZgMYQ49ixy8r2Wq0K/GGKryD7D8wwi0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 10:56:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3pp6lzeyxm"
-        },
-        {
-          "Name": "label",
-          "Value": "Dev_portfolio.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-aTdsp1ONtlqlZgMYQ49ixy8r2Wq0K/GGKryD7D8wwi0="
-        }
-      ]
-    },
-    {
       "Route": "Dev_portfolio.bundle.scp.css",
       "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Dev_portfolio.bundle.scp.css",
       "Selectors": [],
@@ -6014,7 +7057,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "1133"
         },
         {
           "Name": "Content-Type",
@@ -6022,11 +7065,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aTdsp1ONtlqlZgMYQ49ixy8r2Wq0K/GGKryD7D8wwi0=\""
+          "Value": "\"EBAXqzN25hQJI0npRXQ/k66NtZNZyxVzSYQzIIpwKgA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 10:56:21 GMT"
+          "Value": "Fri, 29 Aug 2025 14:57:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6036,7 +7079,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aTdsp1ONtlqlZgMYQ49ixy8r2Wq0K/GGKryD7D8wwi0="
+          "Value": "sha256-EBAXqzN25hQJI0npRXQ/k66NtZNZyxVzSYQzIIpwKgA="
+        }
+      ]
+    },
+    {
+      "Route": "Dev_portfolio.oyj03yo65f.bundle.scp.css",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Dev_portfolio.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EBAXqzN25hQJI0npRXQ/k66NtZNZyxVzSYQzIIpwKgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:57:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oyj03yo65f"
+        },
+        {
+          "Name": "label",
+          "Value": "Dev_portfolio.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EBAXqzN25hQJI0npRXQ/k66NtZNZyxVzSYQzIIpwKgA="
+        }
+      ]
+    },
+    {
+      "Route": "Dev_portfolio.oyj03yo65f.styles.css",
+      "AssetFile": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Dev_portfolio.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EBAXqzN25hQJI0npRXQ/k66NtZNZyxVzSYQzIIpwKgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 29 Aug 2025 14:57:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oyj03yo65f"
+        },
+        {
+          "Name": "label",
+          "Value": "Dev_portfolio.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EBAXqzN25hQJI0npRXQ/k66NtZNZyxVzSYQzIIpwKgA="
         }
       ]
     },
@@ -6051,7 +7184,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1131"
+          "Value": "1133"
         },
         {
           "Name": "Content-Type",
@@ -6059,11 +7192,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aTdsp1ONtlqlZgMYQ49ixy8r2Wq0K/GGKryD7D8wwi0=\""
+          "Value": "\"EBAXqzN25hQJI0npRXQ/k66NtZNZyxVzSYQzIIpwKgA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 10:56:21 GMT"
+          "Value": "Fri, 29 Aug 2025 14:57:45 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6073,7 +7206,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-aTdsp1ONtlqlZgMYQ49ixy8r2Wq0K/GGKryD7D8wwi0="
+          "Value": "sha256-EBAXqzN25hQJI0npRXQ/k66NtZNZyxVzSYQzIIpwKgA="
         }
       ]
     },

@@ -28,16 +28,20 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[D:/C\#/DOT Net Core/03-Mvc part2/gitedProject/Dev_portfolio/Views/Home/Components/Articles/_Article.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXEFydGljbGVzXF9BcnRpY2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/C\#/DOT Net Core/03-Mvc part2/gitedProject/Dev_portfolio/Views/Home/Components/Projects/_Project.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXFByb2plY3RzXF9Qcm9qZWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/C\#/DOT Net Core/03-Mvc part2/gitedProject/Dev_portfolio/Views/Home/contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/C\#/DOT Net Core/03-Mvc part2/gitedProject/Dev_portfolio/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/C\#/DOT Net Core/03-Mvc part2/gitedProject/Dev_portfolio/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/C\#/DOT Net Core/03-Mvc part2/gitedProject/Dev_portfolio/Views/Home/projects.cshtml]

@@ -6,6 +6,13 @@ wwwroot\assets\fonts\IranianSans.svg
 wwwroot\assets\fonts\IranianSans.ttf
 wwwroot\assets\fonts\IranianSans.woff
 wwwroot\assets\fonts\IranianSans.woff2
+wwwroot\assets\images\blog\01.png
+wwwroot\assets\images\blog\02.jpg
+wwwroot\assets\images\blog\03.jpg
+wwwroot\assets\images\blog\04.png
+wwwroot\assets\images\blog\05.jpg
+wwwroot\assets\images\blog\06.jpg
+wwwroot\assets\images\blog\07.png
 wwwroot\assets\images\blog\blog-post-banner.jpg
 wwwroot\assets\images\blog\blog-post-thumb-1.jpg
 wwwroot\assets\images\blog\blog-post-thumb-2.jpg
@@ -28,6 +35,9 @@ wwwroot\assets\images\clients\profile-6.png
 wwwroot\assets\images\me.jpg
 wwwroot\assets\images\profile.png
 wwwroot\assets\images\profile-lg.jpg
+wwwroot\assets\images\project\food.jpg
+wwwroot\assets\images\project\goldiran.jpg
+wwwroot\assets\images\project\lms.jpeg
 wwwroot\assets\images\project\project-1.jpg
 wwwroot\assets\images\project\project-2.jpg
 wwwroot\assets\images\project\project-3.jpg
@@ -38,6 +48,7 @@ wwwroot\assets\images\project\project-7.jpg
 wwwroot\assets\images\project\project-8.jpg
 wwwroot\assets\images\project\project-figure-1.jpg
 wwwroot\assets\images\project\project-figure-2.jpg
+wwwroot\assets\images\project\taxiOnline.jpg
 wwwroot\assets\images\promo-banner.jpg
 wwwroot\assets\images\resume-profile.png
 wwwroot\assets\plugins\bootstrap\js\bootstrap.min.js

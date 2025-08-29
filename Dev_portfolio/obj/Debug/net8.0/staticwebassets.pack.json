@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Dev_portfolio.bundle.scp.css",
-      "PackagePath": "staticwebassets\\Dev_portfolio.3pp6lzeyxm.bundle.scp.css"
+      "PackagePath": "staticwebassets\\Dev_portfolio.oyj03yo65f.bundle.scp.css"
     },
     {
       "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\css\\style.css",
@@ -35,6 +35,34 @@
     {
       "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\fonts\\IranianSans.woff2",
       "PackagePath": "staticwebassets\\assets\\fonts\\IranianSans.woff2"
+    },
+    {
+      "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\01.png"
+    },
+    {
+      "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\02.jpg"
+    },
+    {
+      "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\03.jpg"
+    },
+    {
+      "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\04.png"
+    },
+    {
+      "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\05.jpg"
+    },
+    {
+      "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\06.jpg"
+    },
+    {
+      "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\07.png"
     },
     {
       "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\blog\\blog-post-banner.jpg",
@@ -125,6 +153,18 @@
       "PackagePath": "staticwebassets\\assets\\images\\profile.png"
     },
     {
+      "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\food.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\food.jpg"
+    },
+    {
+      "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\goldiran.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\goldiran.jpg"
+    },
+    {
+      "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\lms.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\lms.jpeg"
+    },
+    {
       "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\project-1.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\project\\project-1.jpg"
     },
@@ -163,6 +203,10 @@
     {
       "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\project-figure-2.jpg",
       "PackagePath": "staticwebassets\\assets\\images\\project\\project-figure-2.jpg"
+    },
+    {
+      "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\project\\taxiOnline.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\project\\taxiOnline.jpg"
     },
     {
       "Id": "D:\\C#\\DOT Net Core\\03-Mvc part2\\gitedProject\\Dev_portfolio\\wwwroot\\assets\\images\\promo-banner.jpg",

@@ -17,9 +17,8 @@ namespace Dev_portfolio.Controllers
         {
             return View();
         }
-        public IActionResult contact() => View();
 
-        public IActionResult Privacy()
+        public IActionResult contact()
         {
             return View();
         }
